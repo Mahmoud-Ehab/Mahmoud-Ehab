@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Decentralized Chat Application
+- 🔭 I’m currently working on decentralized chat application
 - 🌱 I’m currently learning Go, Lua, and Zig
 <!--
 **Mahmoud-Ehab/Mahmoud-Ehab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
