@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a tic-tac-toe cross-platform game with an AI agent.
+- 🔭 I’m currently working on a platform for teaching English language online.
 - 🌱 I’m currently learning Go, Lua, and Zig
 <!--
 **Mahmoud-Ehab/Mahmoud-Ehab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
